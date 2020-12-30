@@ -6,7 +6,16 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to set up Google domain for GitHub Pages</title>
+      <link>https://nathaliagg.com/post/custom-google-domain/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nathaliagg.com/post/custom-google-domain/</guid>
+      <description>After I created this website, I had a hard time setting up an apex domain and the DNS records of my Google domain.</description>
+    </item>
+    
     <item>
       <title>Markdown Syntax Quick Guide</title>
       <link>https://nathaliagg.com/post/markdown-syntax/</link>
