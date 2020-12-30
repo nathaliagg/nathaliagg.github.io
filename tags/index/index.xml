@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on </title>
-    <link>https://www.nathaliagg.com/tags/index/</link>
+    <link>https://nathaliagg.com/tags/index/</link>
     <description>Recent content in index on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.nathaliagg.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://nathaliagg.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://www.nathaliagg.com/post/</link>
+      <link>https://nathaliagg.com/post/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nathaliagg.com/post/</guid>
+      <guid>https://nathaliagg.com/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://www.nathaliagg.com/projects/</link>
+      <link>https://nathaliagg.com/projects/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nathaliagg.com/projects/</guid>
+      <guid>https://nathaliagg.com/projects/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on </title>
-    <link>https://www.nathaliagg.com/tags/hugo/</link>
+    <link>https://nathaliagg.com/tags/hugo/</link>
     <description>Recent content in hugo on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.nathaliagg.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marina Cria</title>
-      <link>https://www.nathaliagg.com/projects/marinacria/</link>
+      <link>https://nathaliagg.com/projects/marinacria/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nathaliagg.com/projects/marinacria/</guid>
+      <guid>https://nathaliagg.com/projects/marinacria/</guid>
       <description>In this project, I created a website for my sister, Marina.</description>
     </item>
     
