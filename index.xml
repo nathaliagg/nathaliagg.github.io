@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>/nathaliagg.github.io/about/</link>
+    <link>https://nathaliagg.github.io/about/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/nathaliagg.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Quick Guide</title>
-      <link>/nathaliagg.github.io/about/post/markdown-syntax/</link>
+      <link>https://nathaliagg.github.io/about/post/markdown-syntax/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/nathaliagg.github.io/about/post/markdown-syntax/</guid>
+      <guid>https://nathaliagg.github.io/about/post/markdown-syntax/</guid>
       <description>These are the Markdown elements that I often used in Hugo content files, R markdown files, and Jupyter markdown cells.</description>
     </item>
     
     <item>
       <title>Rich Content Quick Guide</title>
-      <link>/nathaliagg.github.io/about/post/rich-content/</link>
+      <link>https://nathaliagg.github.io/about/post/rich-content/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/nathaliagg.github.io/about/post/rich-content/</guid>
+      <guid>https://nathaliagg.github.io/about/post/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Marina Cria</title>
-      <link>/nathaliagg.github.io/about/projects/marinacria/</link>
+      <link>https://nathaliagg.github.io/about/projects/marinacria/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/nathaliagg.github.io/about/projects/marinacria/</guid>
+      <guid>https://nathaliagg.github.io/about/projects/marinacria/</guid>
       <description>I created a website for my sister, Marina. She has a small business making handmade and personalized art pieces.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/nathaliagg.github.io/about/archives/</link>
+      <link>https://nathaliagg.github.io/about/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/nathaliagg.github.io/about/archives/</guid>
+      <guid>https://nathaliagg.github.io/about/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/nathaliagg.github.io/about/contact/</link>
+      <link>https://nathaliagg.github.io/about/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/nathaliagg.github.io/about/contact/</guid>
+      <guid>https://nathaliagg.github.io/about/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>/nathaliagg.github.io/about/about/</link>
+      <link>https://nathaliagg.github.io/about/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/nathaliagg.github.io/about/about/</guid>
+      <guid>https://nathaliagg.github.io/about/about/</guid>
       <description>My name is Nathalia. I am a research scientist with wide range of skills in field, laboratory, and computational biology.</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>/nathaliagg.github.io/about/experience/</link>
+      <link>https://nathaliagg.github.io/about/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nathaliagg.github.io/about/experience/</guid>
+      <guid>https://nathaliagg.github.io/about/experience/</guid>
       <description>Professional Experience  Postdoctoral Research Associate I, University of Arizona, Tucson, AZ	October 2019 - present Graduate Research Assistant, Oklahoma State University, Stillwater, OK	January 2013 - August 2019  Leadership  XSEDE (The Extreme Science and Engineering Discovery Environment) Student Campus Champion, August 2018 - August 2019 Board Member, Mobile Meals, non-profit org.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>/nathaliagg.github.io/about/skills/</link>
+      <link>https://nathaliagg.github.io/about/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nathaliagg.github.io/about/skills/</guid>
+      <guid>https://nathaliagg.github.io/about/skills/</guid>
       <description>Check out my projects and recent posts pages for programming and computational biology content.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/nathaliagg.github.io/about/teaching/</link>
+      <link>https://nathaliagg.github.io/about/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/nathaliagg.github.io/about/teaching/</guid>
+      <guid>https://nathaliagg.github.io/about/teaching/</guid>
       <description>Jupyter notebooks and notes from the following workshops I taught can be found here.</description>
     </item>
     
