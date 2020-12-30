@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on </title>
+    <link>https://nathaliagg.github.io/nggpage/tags/github/</link>
+    <description>Recent content in github on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.github.io/nggpage/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marina Cria</title>
+      <link>https://nathaliagg.github.io/nggpage/projects/marinacria/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nathaliagg.github.io/nggpage/projects/marinacria/</guid>
+      <description>In this project, I created a website for my sister, Marina.</description>
+    </item>
+    
+  </channel>
+</rss>

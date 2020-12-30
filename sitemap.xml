@@ -3,15 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nathaliagg.github.io/nggpage/categories/</loc>
+    <loc>https://nathaliagg.github.io/nggpage/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/tags/css/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/tags/html/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/tags/markdown/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/post/markdown-syntax/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/post/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/post/rich-content/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nathaliagg.github.io/nggpage/tags/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nathaliagg.github.io/nggpage/</loc>
+    <loc>https://nathaliagg.github.io/nggpage/tags/github/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/tags/github-pages/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/tags/hugo/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/projects/marinacria/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/projects/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/tags/projects/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/tags/website/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/experience/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/skills/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.github.io/nggpage/teaching/</loc>
   </url>
   
 </urlset>
