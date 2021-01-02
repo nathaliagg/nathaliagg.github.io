@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>markdown on </title>
-    <link>https://nathaliagg.com/tags/markdown/</link>
-    <description>Recent content in markdown on </description>
+    <title>rich-content on </title>
+    <link>https://nathaliagg.com/tags/rich-content/</link>
+    <description>Recent content in rich-content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Markdown Syntax Quick Guide</title>
-      <link>https://nathaliagg.com/post/markdown-syntax/</link>
-      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://nathaliagg.com/post/markdown-syntax/</guid>
-      <description>These are the Markdown elements that I often used in Hugo content files, R markdown files, and Jupyter markdown cells.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.com/tags/rich-content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content Quick Guide</title>
       <link>https://nathaliagg.com/post/rich-content/</link>

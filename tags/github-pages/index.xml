@@ -6,7 +6,16 @@
     <description>Recent content in github-pages on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.com/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.com/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to set up Google domain for GitHub Pages</title>
+      <link>https://nathaliagg.com/post/custom-google-domain/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nathaliagg.com/post/custom-google-domain/</guid>
+      <description>After I created this website, I had a hard time setting up an apex domain and the DNS records of my Google domain.</description>
+    </item>
+    
     <item>
       <title>Marina Cria</title>
       <link>https://nathaliagg.com/projects/marinacria/</link>

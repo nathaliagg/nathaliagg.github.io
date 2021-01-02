@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>github on </title>
-    <link>https://nathaliagg.com/tags/github/</link>
-    <description>Recent content in github on </description>
+    <title>pandas on </title>
+    <link>https://nathaliagg.com/tags/pandas/</link>
+    <description>Recent content in pandas on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.com/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python - 0 - Resources</title>
       <link>https://nathaliagg.com/post/python_0_resources/</link>
@@ -32,15 +32,6 @@
       
       <guid>https://nathaliagg.com/post/python_2_data_wrangling/</guid>
       <description>I use Python daily, and I spend a lot of time doing data wrangling.</description>
-    </item>
-    
-    <item>
-      <title>Marina Cria</title>
-      <link>https://nathaliagg.com/projects/marinacria/</link>
-      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://nathaliagg.com/projects/marinacria/</guid>
-      <description>In this project, I created a website for my sister, Marina.</description>
     </item>
     
   </channel>

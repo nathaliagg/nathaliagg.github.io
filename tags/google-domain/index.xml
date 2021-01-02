@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on </title>
-    <link>https://nathaliagg.com/tags/hugo/</link>
-    <description>Recent content in hugo on </description>
+    <title>google-domain on </title>
+    <link>https://nathaliagg.com/tags/google-domain/</link>
+    <description>Recent content in google-domain on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.com/tags/google-domain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to set up Google domain for GitHub Pages</title>
       <link>https://nathaliagg.com/post/custom-google-domain/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://nathaliagg.com/post/custom-google-domain/</guid>
       <description>After I created this website, I had a hard time setting up an apex domain and the DNS records of my Google domain.</description>
-    </item>
-    
-    <item>
-      <title>Marina Cria</title>
-      <link>https://nathaliagg.com/projects/marinacria/</link>
-      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://nathaliagg.com/projects/marinacria/</guid>
-      <description>In this project, I created a website for my sister, Marina.</description>
     </item>
     
   </channel>

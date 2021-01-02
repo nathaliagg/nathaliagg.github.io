@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resources on </title>
+    <link>https://nathaliagg.com/tags/resources/</link>
+    <description>Recent content in resources on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nathaliagg.com/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python - 0 - Resources</title>
+      <link>https://nathaliagg.com/post/python_0_resources/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://nathaliagg.com/post/python_0_resources/</guid>
+      <description>This is my first post on my Python project series!</description>
+    </item>
+    
+  </channel>
+</rss>

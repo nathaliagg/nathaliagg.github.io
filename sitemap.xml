@@ -4,6 +4,66 @@
   
   <url>
     <loc>https://nathaliagg.com/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.com/tags/github/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.com/tags/pandas/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.com/post/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.com/tags/projects/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.com/tags/python/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.com/post/python_0_resources/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.com/post/python_1_first_steps/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.com/post/python_2_data_wrangling/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.com/tags/resources/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.com/tags/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.com/tags/github-pages/</loc>
+    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nathaliagg.com/tags/google-domain/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -13,7 +73,7 @@
   </url>
   
   <url>
-    <loc>https://nathaliagg.com/post/</loc>
+    <loc>https://nathaliagg.com/tags/hugo/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,23 +103,8 @@
   </url>
   
   <url>
-    <loc>https://nathaliagg.com/tags/</loc>
+    <loc>https://nathaliagg.com/tags/rich-content/</loc>
     <lastmod>2020-12-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nathaliagg.com/tags/github/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nathaliagg.com/tags/github-pages/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nathaliagg.com/tags/hugo/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -69,11 +114,6 @@
   
   <url>
     <loc>https://nathaliagg.com/projects/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nathaliagg.com/tags/projects/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
   </url>
   
